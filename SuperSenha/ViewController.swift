@@ -16,7 +16,7 @@ class ViewController: UIViewController {
         
         //fala carnicas
         
-        //padre quando sai o casorio?????
+        //padre quando sai o casorio
     }
 
 
